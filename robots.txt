@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://votoxvoto2012.milenio.com/sitemap.xml
